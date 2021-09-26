@@ -25,20 +25,20 @@ const Carts = (props) => {
 
             {/* total number of member  */}
 
-            <p> {<FontAwesomeIcon icon={faUser} />}  Singer participate: {props.cart.length} </p>
+            <p> {<FontAwesomeIcon icon={faUser} />} Total  Singer participate: {props.cart.length} </p>
 
 
             <br />
 
             {/* total amount  */}
             <div className="member-salary">
-                <p>total salary: $ {total} </p>
+                <p>total Budget: $ {total} </p>
 
             </div>
 
             {/* added member name */}
 
-            <h3>Selected Memeber: {member}</h3>
+            <h3>Singer Name: {member}</h3>
         </div>
     );
 };

@@ -1,3 +1,8 @@
+#This site is made for the ROYAL concert 
+#most popualr singer will participating here.
+#don't miss the train it will be amazing.
+#For detais can browse our website from here
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -9,7 +14,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [https://laughing-yonath-056b41.netlify.app/](https://laughing-yonath-056b41.netlify.app/) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.

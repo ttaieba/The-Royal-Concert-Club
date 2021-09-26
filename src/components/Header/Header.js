@@ -19,7 +19,7 @@ const Header = () => {
             <h4>Life is one grand, sweet song, so start the music.
 
             </h4>
-            <h1>Total budeget : $ 1500000</h1>
+            <h1>Total Budget : $ 1500000</h1>
         </div>
     );
 };

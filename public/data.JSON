@@ -30,7 +30,7 @@
         "id": "5",
         "email": "genterle0@i2i.jp",
         "gender": "Female",
-        "name": "Taylor Swift",
+        "name": "Taylor S",
         "salary": 6000,
         "country": "USA",
         "img": "https://pyxis.nymag.com/v1/imgs/91e/936/ca72eeebc06e54dc90786d49cb6c240311-18-taylor-swift.rsquare.w330.jpg"
@@ -48,7 +48,7 @@
         "id": "6",
         "email": "genterle0@i2i.jp",
         "gender": "male",
-        "name": "SonuNigam",
+        "name": "Sonu",
         "salary": 7000,
         "country": "USA",
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/73/SonuNigam01.jpg"
