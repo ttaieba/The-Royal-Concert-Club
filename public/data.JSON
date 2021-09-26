@@ -1,0 +1,83 @@
+[
+    {
+        "id": "1",
+        "email": "genterle0@i2i.jp",
+        "gender": "Female",
+        "name": "Greer",
+        "salary": 7000,
+        "country": "USA",
+        "img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQ3MzM3MTcxNjA5NTkzNjQ3/ariana_grande_photo_jon_kopaloff_getty_images_465687098.jpg"
+    },
+    {
+        "id": "2",
+        "email": "genterle0@i2i.jp",
+        "gender": "Female",
+        "name": "Selena G",
+        "salary": 7500,
+        "country": "USA",
+        "img": "https://api.time.com/wp-content/uploads/2020/09/time-100-Selena-Gomez.jpg?w=800&quality=85"
+    },
+    {
+        "id": "3",
+        "email": "genterle0@i2i.jp",
+        "gender": "Female",
+        "name": "Lady G",
+        "salary": 8000,
+        "country": "USA",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lady_Gaga_interview_2016.jpg"
+    },
+    {
+        "id": "5",
+        "email": "genterle0@i2i.jp",
+        "gender": "Female",
+        "name": "Taylor Swift",
+        "salary": 6000,
+        "country": "USA",
+        "img": "https://pyxis.nymag.com/v1/imgs/91e/936/ca72eeebc06e54dc90786d49cb6c240311-18-taylor-swift.rsquare.w330.jpg"
+    },
+    {
+        "id": "19",
+        "email": "genterle0@i2i.jp",
+        "gender": "Female",
+        "name": "Beyoncé",
+        "salary": 5000,
+        "country": "USA",
+        "img": "https://media.npr.org/assets/img/2021/08/23/about_love-a5c5a160b609b952ef65d037dc214fe3dc8b692f-s800-c85.webp"
+    },
+    {
+        "id": "6",
+        "email": "genterle0@i2i.jp",
+        "gender": "male",
+        "name": "SonuNigam",
+        "salary": 7000,
+        "country": "USA",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/73/SonuNigam01.jpg"
+    },
+    {
+        "id": "8",
+        "email": "genterle0@i2i.jp",
+        "gender": "Female",
+        "name": "Ariana",
+        "salary": 7500,
+        "country": "USA",
+        "img": "https://dailymusicroll.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/12/27124120/Ariana-Grande-2.jpg"
+    },
+    {
+        "id": "9",
+        "email": "genterle0@i2i.jp",
+        "gender": "male",
+        "name": "Mars",
+        "salary": 8000,
+        "country": "USA",
+        "img": "https://dailymusicroll.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/12/27125018/Bruno-Mars-10-768x432.jpg"
+    },
+    {
+        "id": "20",
+        "email": "genterle0@i2i.jp",
+        "gender": "Female",
+        "name": "Billie",
+        "salary": 6000,
+        "country": "USA",
+        "img": "https://dailymusicroll.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/12/27124935/Billie-Eilish-9.jpg"
+    }
+]

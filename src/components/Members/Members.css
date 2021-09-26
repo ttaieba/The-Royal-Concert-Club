@@ -1,0 +1,26 @@
+.singer img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid yellowgreen;
+    
+}
+.singer{
+    background-color: rgb(16, 155, 136);
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    color: whitesmoke;
+}
+.singer h5{
+    color:black;
+    font-size: 16px;
+}
+.btn-style{
+    background-color:whitesmoke;
+    
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid gray;
+}

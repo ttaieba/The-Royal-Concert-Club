@@ -1,0 +1,29 @@
+.header{
+    background-color:rgb(163, 160, 160);
+    text-align: center;
+    padding: 20px;
+}
+.header  img{
+    height: 50px;
+    background-color:wheat;
+    margin-right:20px ;
+}
+
+.header nav a{
+    color: rgb(100, 98, 98);
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    
+}
+.header nav {
+    background-color: rgb(192, 192, 199);
+    line-height: 20px;
+    padding: 10px;
+ display: flex;
+ align-items: center;
+ margin-right: 20px;
+ 
+}

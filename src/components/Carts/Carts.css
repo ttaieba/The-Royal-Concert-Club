@@ -1,0 +1,21 @@
+.cart-style{
+    background-color:  rgb(204, 199, 199);
+    color: rgb(8, 88, 78);
+    text-align: center;
+    border-radius: 15px;
+    padding: 10px;
+    border: 2px solid wheat;
+    margin: 10px;
+    width: 400px;
+}
+
+.member-salary {
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight:500;
+    
+    
+    
+}
+
+
